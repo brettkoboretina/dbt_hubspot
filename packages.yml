@@ -1,2 +1,3 @@
 packages: 
    - git: "https://github.com/brettkoboretina/dbt_hubspot_source.git"
+   - revision: '0.4.21'
